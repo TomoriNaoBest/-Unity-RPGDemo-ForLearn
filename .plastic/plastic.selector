@@ -1,0 +1,4 @@
+repository "2Dpritice2@tj_boss_lei@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

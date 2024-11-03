@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a8ec584b33e0064183648b5c1b8b519, type: 3}
+  m_Name: "\u94C1\u76AE\u836F\u6C34"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\u94C1\u76AE\u836F\u6C34"
+  icon: {fileID: 23200006, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 0
+  equipmentType: 3
+  itemCoolDown: 5
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  criticalDamage: 0
+  criticalChance: 0
+  maxHp: 0
+  armor: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightingDamage: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 40aafb0125cbab543addbfa86ae82cdc, type: 2}
+  - {fileID: 11400000, guid: bca38e421d2944d4f99aa2cf2e9d276c, type: 2}
+  list_craftMaterials:
+  - itemdata: {fileID: 11400000, guid: 7886fee849186ee4c8b658087f4cf8a0, type: 2}
+    stackSize: 1
+  - itemdata: {fileID: 11400000, guid: 01a617d198d85074bbece1dbabc08abe, type: 2}
+    stackSize: 1
+  - itemdata: {fileID: 11400000, guid: e4c0367b9782ac84188408316ad54eb6, type: 2}
+    stackSize: 1
