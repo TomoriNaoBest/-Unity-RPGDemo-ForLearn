@@ -10,6 +10,8 @@ The C # code included in the project is independently completed using the GPL3.0
 Students who have the conditions can go to Udemy to support the original tutorial author.
 
  使用方法：
- 下载项目文件，将整个项目所在文件夹使用unityhub进行打开，即可进行编辑，运行，查看代码并学习。
- usage method:
-Download the project file, open the folder containing the entire project using Unityhub, and you can edit, run, view the code, and learn.
+ 下载项目文件，注意找到2Dpritice2\Assets\Graphics\Font下的Font.zip压缩包，将其内部的两个.asset文件解压到Font文件夹下，否则会导致字体丢失。一定执行完该步骤再open项目。
+ 将整个项目所在文件夹使用unityhub进行打开，即可进行编辑，运行，查看代码并学习。
+usage method:
+Download the project file, pay attention to finding the Font.zip compressed file under 2Dpritic2 \ Assets \ Graphics \ Font, and extract the two. asset files inside it to the Font folder, otherwise it will cause font loss. Make sure to complete this step before opening the project.
+Open the entire project folder using Unityhub to edit, run, view code, and learn.
