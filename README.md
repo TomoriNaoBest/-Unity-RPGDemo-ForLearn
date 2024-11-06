@@ -8,6 +8,11 @@ The Unity project is https://www.udemy.com/course/2d-rpg-alexdev Follow the prac
 The following content, including all the content up to the health UI (characters, enemies, skill system, property panel, equipment system, synthesis system), has not been completed yet and may be updated.
 The C # code included in the project is independently completed using the GPL3.0 protocol, while the art resources are provided for the aforementioned course. I do not declare any ownership of it and only reference it for the convenience of learning.
 Students who have the conditions can go to Udemy to support the original tutorial author.
+项目截图：
+![图片1](https://github.com/user-attachments/assets/061d7f90-71dc-4f36-904e-910e30e1dd6d)
+![图片2](https://github.com/user-attachments/assets/4a7392be-7645-48e8-9149-3e044129e459)
+![图片3](https://github.com/user-attachments/assets/9ce86864-a345-408a-afe1-e48a3178a02a)
+![图片4](https://github.com/user-attachments/assets/97df2fe9-0e66-4f33-8b0e-221666684107)
 
  使用方法：
  下载项目文件，注意找到2Dpritice2\Assets\Graphics\Font下的Font.zip压缩包，将其内部的两个.asset文件解压到Font文件夹下，否则会导致字体丢失。一定执行完该步骤再open项目。
